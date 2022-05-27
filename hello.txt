@@ -1,0 +1,3 @@
+Hi there
+I am learning something new
+Yes i am learning Git
